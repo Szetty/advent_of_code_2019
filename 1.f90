@@ -2,7 +2,7 @@
 
 program main    
     integer, dimension(100) :: masses
-    integer i, sum, fuel
+    integer i
 
     length = 100
     open (10, FILE="inputs/1")
@@ -28,7 +28,7 @@ contains
         integer i, fuel, sum
 
         sum = 0
-        do i = 1, length
+        do i = 1, n
             fuel = masses(i) / 3 - 2
             do while (fuel > 0)
                 sum = sum + fuel
