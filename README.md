@@ -5,3 +5,4 @@ The challenge I will be taking this year is to implement each day in a separate 
 The languages are:
 	
 	1. Fortran 90
+	2. Perl 6
