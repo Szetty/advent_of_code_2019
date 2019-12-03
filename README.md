@@ -6,3 +6,4 @@ The languages are:
 	
 	1. Fortran 90
 	2. Perl 6
+	3. Prolog
