@@ -1,3 +1,5 @@
+% run with swipl
+
 manhattan(_, [], 0).
 manhattan([X0, Y0], [X1, Y1], Distance) :-
     Distance is abs(X0 - X1) + abs(Y0 - Y1).
