@@ -8,3 +8,4 @@ The languages are:
 	2. Perl 6
 	3. SWI-Prolog
 	4. OCaml
+	5. Julia
