@@ -9,3 +9,4 @@ The languages are:
 	3. SWI-Prolog
 	4. OCaml
 	5. Julia
+	6. C (Clang)
