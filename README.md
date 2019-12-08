@@ -11,3 +11,4 @@ The languages are:
 	5. Julia
 	6. C (Clang)
 	7. PHP 7.2
+	8. F# (with Mono & Ionide-fsharp)
