@@ -14,3 +14,4 @@ The languages are:
 	 8. F# (with Mono & Ionide-fsharp)
 	 9. C++ (Clang C++14)
 	10. Rust
+	11. Swift 5
