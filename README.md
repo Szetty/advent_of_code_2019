@@ -17,3 +17,4 @@ The languages are:
 	11. Swift 5
 	12. Clojure
 	13. Java 13
+	14. Crystal
