@@ -19,3 +19,4 @@ The languages are:
 	13. Java 13
 	14. Crystal
 	15. C# (Mono)
+	16. Python 3.7
