@@ -20,3 +20,4 @@ The languages are:
 	14. Crystal
 	15. C# (Mono)
 	16. Python 3.7
+	17. Scala
