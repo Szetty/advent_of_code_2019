@@ -21,3 +21,5 @@ The languages are:
 	15. C# (Mono)
 	16. Python 3.7
 	17. Scala
+	18. JS
+	19. Groovy 2.5.8 (JVM: 9.0.1)
