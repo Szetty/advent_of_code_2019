@@ -22,5 +22,6 @@ The languages are:
 	16. Python 3.7
 	17. Scala
 	18. Javascript (NodeJS 12.9.1)
-	19. Groovy 2.5.8 (JVM: 9.0.1)
+	19. Groovy 2.5.8 (JVM 9.0.1)
 	20. Typescript 3.7.3 (TSNode 8.5.4, NodeJS 12.9.1)
+	21. Kotlin (kotlinc-jvm 1.3.60, JRE 9.0.1)
