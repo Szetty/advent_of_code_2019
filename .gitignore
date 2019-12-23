@@ -978,4 +978,7 @@ iOSInjectionProject/
 # Ignore all local history of files
 .history
 
+*.iml
+*.xml
+
 # End of https://www.gitignore.io/api/go,c++,perl,node,ruby,rust,java,scala,ocaml,perl6,swift,julia,fsharp,elixir,python,kotlin,csharp,clojure,crystal,haskell,fortran,monodevelop,visualstudiocode
