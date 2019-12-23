@@ -25,3 +25,5 @@ The languages are:
 	19. Groovy 2.5.8 (JVM 9.0.1)
 	20. Typescript 3.7.3 (TSNode 8.5.4, NodeJS 12.9.1)
 	21. Kotlin (kotlinc-jvm 1.3.60, JRE 9.0.1)
+	22. Go 1.13.4
+	23. Ruby 2.6
