@@ -27,3 +27,4 @@ The languages are:
 	21. Kotlin (kotlinc-jvm 1.3.60, JRE 9.0.1)
 	22. Go 1.13.4
 	23. Ruby 2.6
+	24. Elixir 1.8.2 (Erlang/OTP 22)
