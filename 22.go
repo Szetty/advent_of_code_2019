@@ -1,3 +1,4 @@
+// run by using go modules
 package main
 
 import (

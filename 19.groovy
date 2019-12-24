@@ -1,3 +1,4 @@
+// run with groovy
 class IntcodeComputer {
     public Long[] codes;
     public int i = 0;
