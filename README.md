@@ -28,3 +28,4 @@ The languages are:
 	22. Go 1.13.4
 	23. Ruby 2.6
 	24. Elixir 1.8.2 (Erlang/OTP 22)
+	25. Haskell
